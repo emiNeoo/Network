@@ -1,2 +1,2 @@
 # Network
-Stalj sürecinde öğrendiğim network temelleri
+Staj sürecinde öğrendiğim network temelleri
