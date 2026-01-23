@@ -1,2 +1,2 @@
 # Network
-Staj sürecinde öğrendiğim network temelleri
+Staj sürecinde Network öğrenim sürecim
